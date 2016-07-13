@@ -4,8 +4,8 @@ import makeTestingSet
 import numpy as np
 
 batch_size = 36
-train = makeTrainingSet.TrainingSet()
 
+train = makeTrainingSet.TrainingSet()
 train.readImageList()
 trainX = train.trX()
 trainY = train.trY()
