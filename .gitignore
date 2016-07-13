@@ -87,3 +87,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Bird nest Image (Lab's exclusive image)
+.bmp
