@@ -1,6 +1,6 @@
 # Bird nest image classification with Tensorflow for practice.
 
-Image classification using cNN, softmax, and whatnot.
+Image classification using cNN, softmax...
 
 ## Practice
 * How to apply tensorflow to a project?
